@@ -13,3 +13,4 @@ We will be making an Evernote clone!  Fork this repo, and follow the requirement
 4. **You may not use authentication or authorization. This means no user log in**. We'll look at patterns for dealing with client-side auth later in the semester, so you'll have plenty of time to deal with this case.
 # evernote-backend-rails
 # evernote-backend-rails
+# evernote-backend-rails
